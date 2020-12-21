@@ -1,7 +1,7 @@
 name: nct
 displayName: NonCursed Tantros
 description: Tantros but not cursed!
-author: [yellow]RT[cyan]Omega
+author: RTOmega
 version: 0.1
 main: h
 minGameVersion: 120
